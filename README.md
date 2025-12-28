@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="ReactJS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/git.png" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/postgresql.png" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/mysql.png" alt="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/docker.png" alt="Docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/kubernetes.png" alt="Kubernetes" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/ansible-dark.png" alt="Ansible" width="45" height="45"/>
