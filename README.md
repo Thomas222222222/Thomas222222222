@@ -33,7 +33,7 @@
 ![OPNsense](https://img.shields.io/badge/opnsense-%23DB380E.svg?style=for-the-badge&logo=opnsense&logoColor=white)&nbsp;
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚡ &nbsp;GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Thomas222222222">
